@@ -15,7 +15,7 @@ Our role in this context is of paramount importance. Tasked by the FDA to analyz
 
 1. **Prevalence of Certain Adverse Events**: It was found that cosmetics and multivitamins were the most commonly reported drugs that caused adverse events in individuals. 
 
-2. **Demographic Insights**: People that were ages 60-80 had a higher severe outcome as opposed to their younger counterparts. Additionally, there was a higher percentage of women who reported adverse events to the FDA (almost 50%). 
+2. **Demographic Insights**: People that were ages 60-80 had a higher severe outcome as opposed to their younger counterparts. Additionally, there was a higher percentage of women who reported adverse events to the FDA (almost 75%). 
 
 3. **Enhanced Monitoring and Regulation**: Products that were frequently associated with severe adverse events (this being cosmetics and multivitamins) should be subject to increased monitoring. The FDA may consider revising safety standards or regulations for these products.
 
